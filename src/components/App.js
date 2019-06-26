@@ -9,15 +9,15 @@ import Header from "./Header";
 class App extends Component {
   render() {
     return (
-        <div>
-            <Header />
-      <div className="card-container">
-        <div className="card-body">
-          <CardBack />
-          <CardFront />
+      <div>
+        <Header />
+        <div className="card-container">
+          <div className="card-body">
+            <CardBack />
+            <CardFront />
+          </div>
         </div>
       </div>
-        </div>
     );
   }
 }
