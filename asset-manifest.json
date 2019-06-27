@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-FlipCard/static/css/main.16c95252.chunk.css",
+    "main.js": "/React-FlipCard/static/js/main.e6421373.chunk.js",
+    "main.js.map": "/React-FlipCard/static/js/main.e6421373.chunk.js.map",
+    "runtime~main.js": "/React-FlipCard/static/js/runtime~main.dbce3032.js",
+    "runtime~main.js.map": "/React-FlipCard/static/js/runtime~main.dbce3032.js.map",
+    "static/js/2.548e0644.chunk.js": "/React-FlipCard/static/js/2.548e0644.chunk.js",
+    "static/js/2.548e0644.chunk.js.map": "/React-FlipCard/static/js/2.548e0644.chunk.js.map",
+    "index.html": "/React-FlipCard/index.html",
+    "precache-manifest.998b52497851067528fd60eba2d9ff91.js": "/React-FlipCard/precache-manifest.998b52497851067528fd60eba2d9ff91.js",
+    "service-worker.js": "/React-FlipCard/service-worker.js",
+    "static/css/main.16c95252.chunk.css.map": "/React-FlipCard/static/css/main.16c95252.chunk.css.map"
+  }
+}
